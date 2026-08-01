@@ -23,6 +23,7 @@ Bem-vindo ao **Questify**! Um jogo de quiz educacional para Android onde a sua c
 ## 👥 Desenvolvedores
 Este projeto foi idealizado e desenvolvido por:
 * Rafael Melo
+* Leandro Rabelo
 
 ---
 *Pronto para testar seus conhecimentos de uma forma totalmente nova? Baixe o Questify e desafie sua mente!*
