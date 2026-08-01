@@ -11,7 +11,7 @@ Bem-vindo ao **Questify**! Um jogo de quiz educacional para Android onde a sua c
    * 🟢 **Fácil:** Conceitos básicos (40 segundos por pergunta)
    * 🟡 **Médio:** Detalhes e aplicações (30 segundos por pergunta)
    * 🔴 **Difícil:** Nuances e exceções (20 segundos por pergunta)
-3. **Responda sob pressão:** O tempo está correndo! Quanto mais rápido você responder a alternativa correta, mais pontos você ganha. Mas cuidado, a pressa é inimiga da perfeição!
+3. **Responda sob pressão:**  O tempo está correndo! Quanto mais rápido você responder a alternativa correta, mais pontos você ganha. Mas cuidado, a pressa é inimiga da perfeição!
 4. **Aprenda jogando:** Se ficar em dúvida ou errar, não tem problema. O jogo sempre te dá uma breve explicação após a resposta para você aprender e melhorar.
 
 ## ✨ Destaques do Jogo
