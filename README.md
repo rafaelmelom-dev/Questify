@@ -4,6 +4,10 @@
 
 Bem-vindo ao **Questify**! Um jogo de quiz educacional para Android onde a sua curiosidade é quem dita as regras. Esqueça aqueles aplicativos com perguntas repetidas e temas engessados. Aqui, você escolhe o assunto que quiser, e nossa Inteligência Artificial cria um desafio único na hora!
 
+## Demonstração 
+
+<video controls src="https://github.com/user-attachments/assets/a6e718d9-b89b-4be3-91b7-a68b65b937a4"></video>
+
 ## 🎯 Como Funciona?
 
 1. **Escolha o seu tema:** Pode ser qualquer coisa! Desde "História da Arte" ou "Matemática Financeira", até "Universo Cinematográfico da Marvel" ou "Curiosidades sobre Gatos". Você digita, o jogo cria.
