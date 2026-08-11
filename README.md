@@ -25,6 +25,7 @@ Este projeto foi idealizado e desenvolvido por:
 * Rafael Melo
 * Leandro Rabelo
 * Matheus Humberto Corrêa Pena
+* João Victor Silva
 
 ---
 *Pronto para testar seus conhecimentos de uma forma totalmente nova? Baixe o Questify e desafie sua mente!*
