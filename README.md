@@ -28,6 +28,7 @@ Bem-vindo ao **Questify**! Um jogo de quiz educacional para Android onde a sua c
 Este projeto foi idealizado e desenvolvido por:
 * Rafael Melo
 * Leandro Rabelo
+* Túlio Mota Lima
 * Matheus Humberto Corrêa Pena
 * João Victor Silva
 
